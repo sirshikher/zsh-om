@@ -1,4 +1,4 @@
-# dogenpunk.zsh-theme
+# om.zsh-theme
 
 MODE_INDICATOR="%{$fg_bold[red]%}❮%{$reset_color%}%{$fg[red]%}❮❮%{$reset_color%}"
 local return_status="%{$fg[red]%}%(?..⏎)%{$reset_color%}"
