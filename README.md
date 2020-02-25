@@ -17,7 +17,7 @@ ZSH_THEME="om"
 After save, your terminal should look like this:
 
 <p align="center" width="200" height="200">
-  <img src="https://raw.githubusercontent.com/sirshikher/zsh-om/master/zsh-om.png">
+ 
   <br/>
 </p>
 
